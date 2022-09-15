@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- 
+The following line is the COUNTER: please refer to : https://github.com/antonkomarev/github-profile-views-counter
+-->
+
 ![](https://komarev.com/ghpvc/?username=draperkm)
 
