@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jean and I am passionate about AI. 
+
 
 <!--
 **draperkm/draperkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
