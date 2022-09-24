@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Please visit also my blog [https://draperkm.github.io/blog/](https://draperkm.github.io/blog/)
+Please visit also my blog [https://draperkm.github.io/blog/](https://draperkm.github.io/blog/){:target="_blank" rel="noopener"}
 
 <!--
 **draperkm/draperkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
