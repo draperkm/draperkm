@@ -1,11 +1,6 @@
 ### Hi there 👋
 
 My focus is on Machine Learning and I am passionate about software development 👨‍💻. 
-I just completed a Master in Statistics 📊 writing a thesis about deep learning.
-
-### 🌱 What I can do
-
-
 
 Please visit also [draperkm.github.io/blog/](https://draperkm.github.io/blog/)
 
