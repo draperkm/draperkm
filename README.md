@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-####I have a focus on Machine Learning and I am passionate about software development 👨‍💻. 
+##I have a focus on Machine Learning and I am passionate about software development 👨‍💻. 
 
 
 
