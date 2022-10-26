@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-#### I have a focus on Machine Learning and I am passionate about software development 👨‍💻. 
+My focus is on Machine Learning and I am passionate about software development 👨‍💻. 
+I just completed a Master in Statistics 📊 writing a thesis about deep learning.
+
+### 🌱 What I can do
 
 
 
