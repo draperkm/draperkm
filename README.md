@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+####I have a focus on Machine Learning and I am passionate about software development 👨‍💻. 
+
+
+
 Please visit also [draperkm.github.io/blog/](https://draperkm.github.io/blog/)
 
 <!--
