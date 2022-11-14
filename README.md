@@ -8,7 +8,7 @@ Machine Learning and Python developer that is always trying to improve.
 
 **Feel free to contact me**:
 
-<a href="https://www.linkedin.com/in/jo%C3%A3o-lima214/](https://www.linkedin.com/in/jean-kouam%C3%A8-9b3b5a26/">
+<a href="[https://www.linkedin.com/in/jo%C3%A3o-lima214/](https://www.linkedin.com/in/jean-kouam%C3%A8-9b3b5a26/)](https://www.linkedin.com/in/jean-kouam%C3%A8-9b3b5a26/">
   <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&style=for-the-badge&logo=LINKEDIN&logoColor=white"/>
 </a>
 </br>
