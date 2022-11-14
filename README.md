@@ -1,8 +1,21 @@
-### Hi there 👋
+# Hi there 👋
 
-My focus is on Machine Learning and I am passionate about software development 👨‍💻. 
+A developer that is always trying to improve.
+ 
+- I'm strongly interested in projects with **Machine Learning**, **Data Science**, especially the **Back-End**.
+- 🎯 Currently Learning: APIs, Advanced Python programming
+- 💪 Always Improving:  Machine Learning and Data Science Skills, Code Writing/Readability, Math and Statistics, you can visit [draperkm.github.io/blog/](https://draperkm.github.io/blog/)
 
-Please visit also [draperkm.github.io/blog/](https://draperkm.github.io/blog/)
+**Feel free to contact me**:
+
+<a href="https://www.linkedin.com/in/jo%C3%A3o-lima214/](https://www.linkedin.com/in/jean-kouam%C3%A8-9b3b5a26/">
+  <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&style=for-the-badge&logo=LINKEDIN&logoColor=white"/>
+</a>
+</br>
+
+<a href="jean.c.kouame@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <!--
 **draperkm/draperkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
