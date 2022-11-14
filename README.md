@@ -1,6 +1,6 @@
 # Hi there 👋
 
-A developer that is always trying to improve.
+Machine Learning and Python developer that is always trying to improve.
  
 - I'm strongly interested in projects with **Machine Learning**, **Data Science**, especially the **Back-End**.
 - 🎯 Currently Learning: APIs, Advanced Python programming
