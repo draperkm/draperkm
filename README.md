@@ -5,7 +5,7 @@ Machine Learning and Python developer that is always trying to improve.
 - 👨‍💻 I'm strongly interested in projects about **Machine Learning** and **Data Science**, especially with the **API development**.
 - 🎯 Currently Learning: APIs, Advanced Python programming
 - 💪 Always Improving:  Machine Learning and Data Science Skills, Code Writing/Readability, Math and Statistics,
-- 💭 Some more: [draperkm.github.io/blog/](https://draperkm.github.io/blog/)
+- 💭 Some more: [My Blog](https://draperkm.github.io/blog/) / [My Twitter](https://twitter.com/JeanCharlesK)
 
 <!--
 **draperkm/draperkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
