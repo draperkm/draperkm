@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Back-End Python Developer, specialised in Machine Learning.
+**Back-End Python Developer**, focused on **Machine Learning** 🤖.
  
 - 👨‍💻 I'm strongly interested in projects about **Machine Learning** and **Data Science**, especially with the **API development**.
 - 🎯 Currently Learning: APIs, Advanced Python programming
