@@ -2,7 +2,7 @@
 
 **Back-End Python Developer**, focused on **Machine Learning** 🤖.
  
-- 👨‍💻 I'm strongly interested in projects about **Machine Learning** and **Data Science**, especially with the **API development**.
+- 👨‍💻 I'm strongly interested in projects about **Machine Learning** and **Data Science**, especially the **Back-end development**.
 - 🎯 Currently Learning: APIs, Advanced Python programming
 - 💪 Always Improving:  Machine Learning and Data Science Skills, Code Writing/Readability, Math and Statistics,
 - 💭 Some more: [Blog](https://draperkm.github.io/blog/) and [Twitter](https://twitter.com/JeanCharlesK)
