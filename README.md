@@ -1,6 +1,6 @@
 # Hi there 👋
 
-**Junior Back-End Python Developer**, focused on **Machine Learning** 🤖 and **Data Science**📊.
+**Junior Back-End Python Developer**, focused on **Machine Learning** and **Data Science** 🤖 📊.
  
 - 👨‍💻 I'm strongly interested in projects about **Machine Learning** and **Data Science**, especially the **Back-end development**.
 - 🎯 Currently Learning: APIs development, Advanced Python programming, FARM stack (FastAPI, React, MongoDB)
