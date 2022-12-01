@@ -3,7 +3,7 @@
 **Junior Back-End Python Developer**, focused on **Machine Learning** 🤖.
  
 - 👨‍💻 I'm strongly interested in projects about **Machine Learning** and **Data Science**, especially the **Back-end development**.
-- 🎯 Currently Learning: APIs, Advanced Python programming
+- 🎯 Currently Learning: APIs development, Advanced Python programming, FARM stack (FastAPI, React, MongoDB)
 - 💪 Always Improving:  Machine Learning and Data Science Skills, Code Writing, Math and Statistics
 - 💭 Some more: [Blog](https://draperkm.github.io/blog/) and [Twitter](https://twitter.com/JeanCharlesK)
 
