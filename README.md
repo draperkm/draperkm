@@ -3,7 +3,7 @@
 **Junior Back-End Python Developer**, focused on **Machine Learning** and **Data Science** 🤖 📊.
  
 - 🎯 Currently Learning: 
-    - Integration of Python with other back-end technologies (Flask/Django/FastAPI, )
+    - Integration of Python with other back-end technologies (Flask/Django/FastAPI)
     - Building RESTful APIs
     - Database technologies (PostgreSQL/MySQL, MongoDB)
     
