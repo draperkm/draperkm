@@ -7,8 +7,8 @@
     - Building RESTful APIs
     - Database technologies (PostgreSQL/MySQL, MongoDB)
     
-- APIs development (Flask, FastAPI), SQL and NO-SQL databases, JSON data structures, advanced Python programming, cloud computing (AWS, Docker).
-- 💪 Always Improving:  Machine Learning and Data Science Skills, Code Writing, Math and Statistics
+- 💪 Always Improving: Machine Learning and Data Science Skills, Code Writing, Math and Statistics
+
 - 💭 Some more: [Blog](https://draperkm.github.io/blog/)
 
 <!--
