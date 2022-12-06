@@ -11,10 +11,15 @@
 
 - 💭 Some more: [Blog](https://draperkm.github.io/blog/)
 
-<p align="center" style="font-weight:bold"> 🎅 <b>Advents of Code</b> <p>
+<p align="center" style="font-weight:bold"> ⚙️ <b>Most interesting projects</b> <p>
   
 ---
-* [`AdventOfCode2022`](https://github.com/draperkm/Advent_Programming_2022) : ..._ongoing_...
+* [`DCGAN`]() : implementation of a Generative Adversarial Network
+
+<p align="center" style="font-weight:bold"> 🌲 <b>Advents of Code</b> <p>
+  
+---
+* [`Advent_Of_Code2022`](https://github.com/draperkm/Advent_Programming_2022) : ..._ongoing_...
 
 <!--
 **draperkm/draperkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
