@@ -14,7 +14,7 @@
 <p align="center" style="font-weight:bold"> ⚙️ <b>Most interesting projects</b> <p>
   
 ---
-* [`DCGAN`](https://github.com/draperkm/DCGAN_Implementation) : implementation of a Generative Adversarial Network
+* [`DCGAN`](https://github.com/draperkm/DCGAN_Implementation) : implementation of a **Generative Adversarial Network**
 * [`Face Detection API`](https://github.com/draperkm/Face_Detection_and_Landmarks_Gender_Emotion_Recognition) : implementation of **Tiny Face Detector** as an API
 
 <p align="center" style="font-weight:bold"> 🌲 <b>Advents of Code</b> <p>
