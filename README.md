@@ -6,6 +6,7 @@
     - Integration of Python with other back-end technologies (Flask/Django/FastAPI)
     - Building RESTful APIs
     - Database technologies (PostgreSQL/MySQL, MongoDB)
+    - Software development best practices
     
 - 💪 Always Improving: Machine Learning and Data Science Skills, Code Writing, Math and Statistics
 
