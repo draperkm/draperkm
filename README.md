@@ -1,6 +1,6 @@
 # Hi there 👋
 
-**Junior Back-End Python Developer**, focused on **Machine Learning** and **Data Science** 🤖 📊.
+**Junior Back-End Engineer**, focused on **Python**, **Machine Learning** and **Data Science** 🤖 📊.
  
 - 🎯 Currently Learning: 
     - Integration of Python with other back-end technologies (Flask/Django/FastAPI)
