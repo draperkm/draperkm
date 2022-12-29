@@ -1,6 +1,6 @@
 # Hi there 👋
 
-**Python**, **Machine Learning** and **Data Science** 🤖 📊.
+**Python**, **Machine Learning** and **Data Science**.
  
 - 🎯 Currently Learning: 
     - Software engineering best practices 
