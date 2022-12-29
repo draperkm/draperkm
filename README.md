@@ -1,12 +1,12 @@
 # Hi there 👋
 
-**Junior Back-End Engineer**, focused on **Python**, **Machine Learning** and **Data Science** 🤖 📊.
+**Python**, **Machine Learning** and **Data Science** 🤖 📊.
  
 - 🎯 Currently Learning: 
-    - Integration of Python with other back-end technologies (Flask/Django/FastAPI)
+    - Software engineering best practices 
+    - Integration of Python with other backend technologies (Flask/Django/FastAPI)
     - Building RESTful APIs
     - Database technologies (PostgreSQL/MySQL, MongoDB)
-    - Software development best practices
     
 - 💪 Always Improving: Machine Learning and Data Science Skills, Code Writing, Math and Statistics
 
