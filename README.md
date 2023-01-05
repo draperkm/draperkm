@@ -21,7 +21,7 @@
 <p align="center" style="font-weight:bold"> 🌲 <b>Advents of Code</b> <p>
   
 ---
-* [`Advent_Of_Code2022`](https://github.com/draperkm/Advent_Programming_2022) : ..._ongoing_...
+* [`Advent_Of_Code2022`](https://github.com/draperkm/Advent_Programming_2022)
 
 <!--
 **draperkm/draperkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
