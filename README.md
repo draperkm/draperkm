@@ -2,13 +2,13 @@
 
 **Python**, **Machine Learning** and **Data Science**.
  
+- 💪 Always Improving: Machine Learning and Data Science Skills, Code Writing, Math and Statistics
+
 - 🎯 Currently Learning: 
     - Software engineering best practices 
     - Integration of Python with other backend technologies (Flask/Django/FastAPI)
     - Building RESTful APIs
     - Database technologies (PostgreSQL/MySQL, MongoDB)
-    
-- 💪 Always Improving: Machine Learning and Data Science Skills, Code Writing, Math and Statistics
 
 - 💭 Some more: [Blog](https://draperkm.github.io/blog/)
 
