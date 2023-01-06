@@ -1,6 +1,6 @@
 # Hi there 👋
 
-**Python**, **Machine Learning** and **Data Science**.
+**Statistics**, **Python**, **AI**.
  
 - 💪 Always Improving: Machine Learning and Data Science Skills, mathematics and statistics.
 
