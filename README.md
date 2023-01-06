@@ -2,7 +2,7 @@
 
 **Python**, **Machine Learning** and **Data Science**.
  
-- 💪 Always Improving: Machine Learning and Data Science Skills, Code Writing, Math and Statistics
+- 💪 Always Improving: Machine Learning and Data Science Skills, mathematics and statistics.
 
 - 🎯 Currently Learning: 
     - Software engineering best practices 
