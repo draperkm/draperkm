@@ -1,5 +1,7 @@
 # Hi there 👋
 
+I like to travel and I lived in 3 different countries up until now. I like chess, sports, cooking, and always been have an interest in art, architecture and visual arts. I read a lot, especially history, politics, and philosophy, and sometimes I write about it on [`my twitter account`](https://twitter.com/JeanCharlesK).   
+
 **Statistics**, **Python**, **AI**.
  
 - 💪 Always Improving: Machine Learning and Data Science Skills, mathematics and statistics.
