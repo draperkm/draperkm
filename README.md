@@ -1,6 +1,6 @@
 # Hi there 👋
 
-**I like solving complex problems** My specialisation is in **Statistics**, **Python**, **AI**.
+**I like solving complex problems**. My specialisation is in **Statistics**, **Python**, **AI**.
  
 - 💪 Always Improving: Machine Learning and Data Science Skills, mathematics and statistics.
 
