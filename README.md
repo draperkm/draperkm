@@ -2,7 +2,7 @@
 
 **I like solving complex problems**.
  
-    - Machine Learning and Data Science.
+    - Machine Learning
     - Software engineering best practices 
     - Integration of Python with other backend technologies (Flask/Django/FastAPI)
     - Building RESTful APIs
