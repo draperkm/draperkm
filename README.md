@@ -2,9 +2,8 @@
 
 **I like solving complex problems**. My specialisation is in **Statistics**, **Python**, **AI**.
  
-- 💪 Always Improving: Machine Learning and Data Science Skills, mathematics and statistics.
-
-- 🎯 Currently Learning: 
+    - Machine Learning and Data Science Skills, mathematics and statistics.
+    - Currently Learning: 
     - Software engineering best practices 
     - Integration of Python with other backend technologies (Flask/Django/FastAPI)
     - Building RESTful APIs
