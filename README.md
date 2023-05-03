@@ -3,7 +3,6 @@
 **I like solving complex problems**.
  
     - Machine Learning and Data Science Skills, mathematics and statistics.
-    - Currently Learning: 
     - Software engineering best practices 
     - Integration of Python with other backend technologies (Flask/Django/FastAPI)
     - Building RESTful APIs
