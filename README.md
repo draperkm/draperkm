@@ -14,7 +14,7 @@
   
 ---
 * [`DCGAN`](https://github.com/draperkm/DCGAN_Implementation) : implementation of a **Generative Adversarial Network**
-* [`Face Detection API`][https://github.com/draperkm/Face_Detection_and_Landmarks_Gender_Emotion_Recognition](https://draperkm-face-detection-app.netlify.app/) : implementation of **Tiny Face Detector** for image recognition
+* [`Face Detection API`](https://draperkm-face-detection-app.netlify.app/) : implementation of **Tiny Face Detector** for image recognition
 * [`Financial News Sentiment Analysis`](https://draperkm-distil-bart-streamlit-streamlit-ubdc24.streamlit.app) : implementation of **DistilBERT transformer** as an API to perform sentiment analysis of written text
 
 <p align="center" style="font-weight:bold"> 🌲 <b>Coding challenges</b> <p>
