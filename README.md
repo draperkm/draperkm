@@ -8,7 +8,7 @@
     - Building RESTful APIs
     - Database technologies (PostgreSQL/MySQL, MongoDB)
 
-- 💭 Some more: <a href="https://draperkm.github.io/blog/" target="_blank">Blog</a>
+- 💭 Some more: <a href="https://draperkm.github.io/blog" target="_blank">Blog</a>
 
 <p align="center" style="font-weight:bold"> ⚙️ <b>Most interesting projects</b> <p>
   
