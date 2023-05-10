@@ -14,6 +14,7 @@
   
 ---
 * [`DCGAN`](https://github.com/draperkm/DCGAN_Implementation) : implementation of a **Generative Adversarial Network**
+* [`Fullstack trading app`](https://full-trading-app.onrender.com/) : web application created with Python and HTML, using FastAPI **Stock screener**
 * [`Face Detection API`](https://draperkm-face-detection-app.netlify.app/) : implementation of **Tiny Face Detector** for image recognition
 * [`Financial News Sentiment Analysis`](https://draperkm-distil-bart-streamlit-streamlit-ubdc24.streamlit.app) : implementation of **DistilBERT transformer** as an API to perform sentiment analysis of written text
 
