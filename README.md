@@ -13,7 +13,7 @@ I focus on:
 
 <p align="center" style="font-weight:bold"> ⚙️ <b>Most interesting projects</b> <p>
   
---- Some of my personal projects:
+--- 
 * [`DCGAN`](https://github.com/draperkm/DCGAN_Implementation) : implementation of a **Generative Adversarial Network**
 * [`Face Detection API`](https://draperkm-face-detection-app.netlify.app/) : implementation of **Tiny Face Detector** for image recognition
 * [`Financial News Sentiment Analysis`](https://draperkm-distil-bart-streamlit-streamlit-ubdc24.streamlit.app) : implementation of **DistilBERT transformer** as an API to perform sentiment analysis of written text
