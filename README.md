@@ -7,7 +7,7 @@ I focus on:
     - Building machine learning models
     - Software engineering best practices 
     - Integrating models in back-end and front-end applications (Flask/FastAPI)
-    - Using data storrage and data processing technologies (SAS, PostgreSQL/MySQL, MongoDB, Spark)
+    - Using data storage and data processing technologies (SAS, PostgreSQL/MySQL, MongoDB, Spark)
 
 <!-- - 💭 Some more: <a href="https://draperkm.github.io/blog" target="_blank">Blog</a> -->
 
