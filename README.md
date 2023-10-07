@@ -1,24 +1,24 @@
 # Hi there 👋
 
-**I like solving complex problems**.
+**I'm currently based in the south of UK, and I like solving complex problems and have a passion for machine learning**.
+
+I focus on:
  
-    - Machine Learning
-    - Building on relational databases
+    - Building machine learning models
     - Software engineering best practices 
-    - Integration of Python with other backend technologies (Flask/Django/FastAPI)
-    - Building RESTful APIs
-    - Database technologies (PostgreSQL/MySQL, MongoDB)
+    - Integrating models in back-end and front-end applications (Flask/FastAPI)
+    - Using data storrage and data processing technologies (SAS, PostgreSQL/MySQL, MongoDB, Spark)
 
 <!-- - 💭 Some more: <a href="https://draperkm.github.io/blog" target="_blank">Blog</a> -->
 
 <p align="center" style="font-weight:bold"> ⚙️ <b>Most interesting projects</b> <p>
   
----
+--- Some of my personal projects:
 * [`DCGAN`](https://github.com/draperkm/DCGAN_Implementation) : implementation of a **Generative Adversarial Network**
-* [`Fullstack trading app`](https://full-trading-app.onrender.com/) : web application created with Python and HTML, using FastAPI **Stock screener**
 * [`Face Detection API`](https://draperkm-face-detection-app.netlify.app/) : implementation of **Tiny Face Detector** for image recognition
 * [`Financial News Sentiment Analysis`](https://draperkm-distil-bart-streamlit-streamlit-ubdc24.streamlit.app) : implementation of **DistilBERT transformer** as an API to perform sentiment analysis of written text
-
+* [`Fullstack trading app`](https://full-trading-app.onrender.com/) : web application created with Python and HTML, using FastAPI **Stock screener**
+* 
 <p align="center" style="font-weight:bold"> 🌲 <b>Coding challenges</b> <p>
   
 ---
