@@ -22,6 +22,7 @@ I focus on:
 <p align="center" style="font-weight:bold"> 🌲 <b>Coding challenges</b> <p>
   
 ---
+* [`Advent_Of_Code2023`](https://github.com/draperkm/Advent_Programming_2023)
 * [`Advent_Of_Code2022`](https://github.com/draperkm/Advent_Programming_2022)
 
 <!--
