@@ -1,10 +1,10 @@
 # Hi there 👋
 
-**I'm currently based in the south of UK, and I like solving complex problems and have a passion for machine learning**.
+**I'm training as Data Anlysts in the field of insurances. I like solving puzzles and have a passion for machine learning**.
 
 I focus on:
  
-    - Building machine learning models
+    - Machine learning models
     - Software engineering best practices 
     - Integrating models in back-end and front-end applications (Flask/FastAPI)
     - Using data storage and data processing technologies (SAS, PostgreSQL/MySQL, MongoDB, Spark)
