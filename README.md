@@ -18,7 +18,7 @@ I focus on:
 * [`Loss functions and Deep Learning, Dissertation MSc`](https://github.com/draperkm/MSc_Dissertation_2021-22/tree/main) : my master thesis
 * [`Financial News Sentiment Analysis`](https://draperkm-distil-bart-streamlit-streamlit-ubdc24.streamlit.app) : implementation of **DistilBERT transformer** as an API to perform sentiment analysis of written text
 * [`Fullstack trading app`](https://full-trading-app.onrender.com/) : web application created with Python and HTML, using FastAPI **Stock screener**
-* [`Video Games Industry Analysis with Tableau`](https://github.com/draperkm/Tableau_Project): creation of a Tableau Dashboards
+* [`Data visualisation with Tableau`](https://github.com/draperkm/Tableau_Project): creation of a Tableau Dashboards
 
 <p align="center" style="font-weight:bold"> 🌲 <b>Coding challenges</b> <p>
   
