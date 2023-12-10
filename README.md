@@ -12,6 +12,7 @@ I focus on:
 
 
 <p align="left" style="font-weight:bold"> ⚙️ <b>Personal projects</b> <p>
+    
 --- 
 * [`DCGAN`](https://github.com/draperkm/DCGAN_Implementation) : implementation of a **Generative Adversarial Network**
 * [`Face Detection API`](https://draperkm-face-detection-app.netlify.app/) : implementation of **Tiny Face Detector** for image recognition
@@ -22,6 +23,7 @@ I focus on:
   
 
 <p align="left" style="font-weight:bold"> 🌲 <b>Coding challenges</b> <p>
+    
 ---
 * [`Advent_Of_Code2023`](https://github.com/draperkm/Advent_Programming_2023)
 * [`Advent_Of_Code2022`](https://github.com/draperkm/Advent_Programming_2022)
