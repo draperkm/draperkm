@@ -3,11 +3,10 @@
 **I'm training as Data Anlysts in the field of insurances. I like solving puzzles and have a passion for machine learning**.
 
 I focus on:
- 
-    - Machine learning models
-    - Software engineering best practices 
-    - Integrating models in back-end and front-end applications (Flask/FastAPI)
-    - Using data storage and data processing technologies (SAS, PostgreSQL/MySQL, MongoDB, Spark)
+
+    - ETL data processing (SQL, R, SAS, Databricks, Spark)
+    - Machine learning models software engineering best practices (Git, Linux)
+    - Deployment of ML models and front-end/back-end integration (Flask/FastAPI)
 
 <!-- - 💭 Some more: <a href="https://draperkm.github.io/blog" target="_blank">Blog</a> -->
 
