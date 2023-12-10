@@ -10,6 +10,7 @@ I focus on:
 
 <!-- - 💭 Some more: <a href="https://draperkm.github.io/blog" target="_blank">Blog</a> -->
 
+
 <p align="center" style="font-weight:bold"> ⚙️ <b>Personal projects</b> <p>
   
 --- 
@@ -19,6 +20,7 @@ I focus on:
 * [`Financial News Sentiment Analysis`](https://draperkm-distil-bart-streamlit-streamlit-ubdc24.streamlit.app) : implementation of **DistilBERT transformer** as an API to perform sentiment analysis of written text
 * [`Fullstack trading app`](https://full-trading-app.onrender.com/) : web application created with Python and HTML, using FastAPI **Stock screener**
 * [`Data Visualisation with Tableau`](https://github.com/draperkm/Tableau_Project): creation of a Dashboards in Tableau
+  
 
 <p align="center" style="font-weight:bold"> 🌲 <b>Coding challenges</b> <p>
   
