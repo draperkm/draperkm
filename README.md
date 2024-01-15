@@ -1,6 +1,6 @@
 # Hi there 👋
 
-**I'm training as Data Analyst in the Insurance Services industry. I like solving puzzles and have a passion for machine learning**.
+**I'm training as Data Analyst. I like solving puzzles and have a passion for machine learning**.
 
 I focus on:
 
