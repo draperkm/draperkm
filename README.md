@@ -15,7 +15,7 @@ I focus on:
     
 --- 
 * [`DCGAN`](https://github.com/draperkm/DCGAN_Implementation) : implementation of a **Generative Adversarial Network**
-* [`Face Detection API`](https://draperkm-face-detection-app.netlify.app/) : implementation of **Tiny Face Detector** for image recognition
+* [`Face Detection App`](https://draperkm-face-detection-app.netlify.app/), [Description page](https://github.com/draperkm/Face_Detection_and_Landmarks_Gender_Emotion_Recognition): implementation of **Tiny Face Detector** for image recognition
 * [`Loss functions and Deep Learning, Dissertation MSc`](https://github.com/draperkm/MSc_Dissertation_2021-22/tree/main) : my master thesis
 * [`Financial News Sentiment Analysis`](https://draperkm-distil-bart-streamlit-streamlit-ubdc24.streamlit.app) : implementation of **DistilBERT transformer** as an API to perform sentiment analysis of written text
 * [`Fullstack trading app`](https://full-trading-app.onrender.com/) : web application created with Python and HTML, using FastAPI **Stock screener**
