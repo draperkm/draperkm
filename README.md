@@ -4,7 +4,7 @@
 
 I focus on:
 
-    - ETL processing (SQL, R, SAS, Databricks, Spark)
+    - ETL processing (Python, SQL, R, SAS, Databricks, Spark)
     - Machine learning models software engineering best practices (Git, Linux)
     - Deployment of ML models and front-end/back-end integration (Flask/FastAPI)
 
