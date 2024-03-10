@@ -15,12 +15,10 @@ I focus on:
     
 --- 
 * [`DCGAN`](https://github.com/draperkm/DCGAN_Implementation) : implementation of a **Generative Adversarial Network**
-* [`Face Detection App`](https://draperkm-face-detection-app.netlify.app/) and [`Description page`](https://github.com/draperkm/Face_Detection_and_Landmarks_Gender_Emotion_Recognition): implementation of **Tiny Face Detector** for image recognition
-* [`Loss functions and Deep Learning, Dissertation MSc`](https://github.com/draperkm/MSc_Dissertation_2021-22/tree/main) : my master thesis on Loss Functions and Deep Learning
+* [`Face Detection App`](https://github.com/draperkm/Face_Detection_and_Landmarks_Gender_Emotion_Recognition): implementation of **Tiny Face Detector** for image recognition [`Try It!`](https://draperkm-face-detection-app.netlify.app/)
 * [`Fullstack trading app`](https://full-trading-app.onrender.com/) : web application created with Python and HTML, using FastAPI **Stock screener**
 * [`Financial News Sentiment Analysis`](https://draperkm-distil-bart-streamlit-streamlit-ubdc24.streamlit.app) : implementation of **DistilBERT transformer** as web API for sentiment analysis
-* [`Data Visualisation with Tableau`](https://github.com/draperkm/Tableau_Project): creation of a Dashboards in Tableau
-  
+* [`Loss functions and Deep Learning, Dissertation MSc`](https://github.com/draperkm/MSc_Dissertation_2021-22/tree/main) : my master thesis on Loss Functions and Deep Learning
 
 <p align="left" style="font-weight:bold"> 🌲 <b>Coding challenges</b> <p>
     
