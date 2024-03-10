@@ -5,7 +5,7 @@
 I focus on:
 
     - Python, SQL, R, SAS, Databricks, Spark
-    - Machine learning models 
+    - Machine learning models and architectures
     - Software engineering best practices
 
 <!-- - 💭 Some more: <a href="https://draperkm.github.io/blog" target="_blank">Blog</a> -->
