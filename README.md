@@ -1,12 +1,12 @@
 # Hi there 👋
 
-**I'm training as Data Analyst. I like solving puzzles and have a passion for machine learning**.
+**I'm training as Data Analyst and have a passion for machine learning**.
 
 I focus on:
 
-    - ETL processing (Python, SQL, R, SAS, Databricks, Spark)
-    - Machine learning models software engineering best practices (Git, Linux)
-    - Deployment of ML models and front-end/back-end integration (Flask/FastAPI)
+    - Python, SQL, R, SAS, Databricks, Spark
+    - Machine learning models 
+    - Software engineering best practices
 
 <!-- - 💭 Some more: <a href="https://draperkm.github.io/blog" target="_blank">Blog</a> -->
 
