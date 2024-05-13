@@ -16,7 +16,7 @@ I focus on:
 --- 
 * [`DCGAN`](https://github.com/draperkm/DCGAN_Implementation) : implementation of a **Generative Adversarial Network**
 * [`Face Detection App`](https://github.com/draperkm/Face_Detection_and_Landmarks_Gender_Emotion_Recognition): implementation of **Tiny Face Detector** for image recognition [`Try It!`](https://draperkm-face-detection-app.netlify.app/)
-* [`Retrival Augmented Generation (RAG)`]([https://full-trading-app.onrender.com/](https://github.com/draperkm/rag_chat_with_websites)) : web application created with Python, Langchain, Pinecone and Streamlit
+* [`Retrival Augmented Generation (RAG)`](https://github.com/draperkm/rag_chat_with_websites) : web application created with Python, Langchain, Pinecone and Streamlit
 * [`Loss functions and Deep Learning, Dissertation MSc`](https://github.com/draperkm/MSc_Dissertation_2021-22/tree/main) : my master thesis on Loss Functions and Deep Learning
 
 <p align="left" style="font-weight:bold"> 🌲 <b>Coding challenges</b> <p>
