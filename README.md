@@ -1,6 +1,6 @@
 # Hi there 👋
 
-**I'm training as Data Analyst and have a passion for machine learning**.
+**Machine Learning Engineer**.
 
 I focus on:
 
