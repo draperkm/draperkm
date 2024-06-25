@@ -1,6 +1,8 @@
 # Hi there 👋
 
-**Machine Learning Engineer**. Machine Learning is a bunch of Tensors and a bunch of operations that make use of linear algebra to obtain distilled information from data.
+**Machine Learning Engineer**. 
+
+Machine Learning is a bunch of tensors and a bunch of linear algebra operations made to obtain distilled information from data.
 
 I focus on:
 
