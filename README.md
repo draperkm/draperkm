@@ -2,12 +2,11 @@
 
 **Machine Learning Engineer**. 
 
-Machine Learning is a bunch of tensors and a bunch of linear algebra operations made to obtain distilled information from data.
+Machine learning is tensors and linear algebra operations, extracting information from data.
 
-I focus on:
+Tools and interests:
 
-    - Python, SQL, R, SAS, Databricks, Spark
-    - Machine learning models and architectures
+    - Python, R, PySpark, SQL, SAS, Databricks
     - Software engineering best practices
 
 <!-- - 💭 Some more: <a href="https://draperkm.github.io/blog" target="_blank">Blog</a> -->
