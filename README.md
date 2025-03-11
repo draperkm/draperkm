@@ -2,7 +2,7 @@
 
 I'm a Machine Learning Engineer interested in solving real-world problems using different technologies and with the help of a little bit of curiosity.
 
-Tools and interests:
+Tools and Frameworks:
 
     - Python, R, PySpark, SQL, SAS, Databricks
     - Software engineering best practices
