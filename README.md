@@ -1,6 +1,6 @@
 # Hi there 👋
 
-**Machine Learning Engineer**. 
+I'm a Machine Learning Engineer interested in solving real-world problems using different technologies and with the help of a little bit of curiosity.
 
 Tools and interests:
 
