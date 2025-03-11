@@ -2,8 +2,6 @@
 
 **Machine Learning Engineer**. 
 
-Machine learning is tensors and linear algebra operations, extracting information from data.
-
 Tools and interests:
 
     - Python, R, PySpark, SQL, SAS, Databricks
