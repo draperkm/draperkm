@@ -1,6 +1,6 @@
 # Hi there 👋
 
-**Graduate Machine Learning Engineer**. 
+**Machine Learning Engineer**. 
 
 Machine learning is tensors and linear algebra operations, extracting information from data.
 
