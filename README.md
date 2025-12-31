@@ -4,7 +4,7 @@ I'm a Machine Learning Engineer interested in solving real-world problems using 
 
 Tools and Frameworks:
 
-    - Python, R, PySpark, SQL, SAS, Databricks
+    - Python, R, PySpark, SQL, Databricks
     - Software engineering best practices
 
 <!-- - 💭 Some more: <a href="https://draperkm.github.io/blog" target="_blank">Blog</a> -->
