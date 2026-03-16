@@ -1,11 +1,15 @@
 # Hi there 👋
 
-I'm a Machine Learning Engineer interested in solving real-world problems using different technologies and with the help of a little bit of curiosity.
+I like find elegant solution to complex problems.
 
-Tools and Frameworks:
+## 🛠️ Tools & Stack
 
-    - Python, R, PySpark, SQL, Databricks
-    - Software engineering best practices
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_ML-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
 
 <!-- - 💭 Some more: <a href="https://draperkm.github.io/blog" target="_blank">Blog</a> -->
 
