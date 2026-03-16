@@ -17,7 +17,6 @@ Tools and Frameworks:
 * 🎨 [`Generative Adversarial Network`](https://github.com/draperkm/DCGAN_Implementation) : implementation of a **Deep Convolutional Generative Adversarial Network**
 * 🤖 [`RAG (Retrieval-augmented generation) ChatBot`](https://github.com/draperkm/rag_chat_with_websites) : web application created with Python, Langchain, Pinecone and Streamlit
 * 🎾 [`End-to-End ML pipeline for real-time low-latency betting app`](https://github.com/draperkm/low_latency_betting/tree/main): event-driven pipeline for in-play tennis odds prediction, featuring an XGBoost model trained on historical point-level data, served through a low-latency inference engine with a streaming architecture 
-* 📐 [`Loss functions and Deep Learning, Dissertation MSc`](https://github.com/draperkm/MSc_Dissertation_2021-22/tree/main) : my master thesis on Loss Functions and Deep Learning
 
 <p align="left" style="font-weight:bold"> 🌲 <b>Coding challenges</b> <p>
     
