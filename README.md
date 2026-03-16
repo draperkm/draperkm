@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I like find elegant solution to complex problems.
+I like to find elegant solution to complex problems.
 
 ## 🛠️ Tools & Stack
 
